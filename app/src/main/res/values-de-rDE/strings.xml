@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galerie für Locus</string>
+    <string name="about">Über</string>
+    <string name="settings">Einstellungen</string>
+    <string name="open_source_libraries">Open Source Bibliotheken</string>
+    <string name="open_source_licences">Open Source Lizenzen</string>
+    <string name="add_path">Pfad hinzufügen</string>
+    <string name="locus_not_found">Locus konnte nicht gefunden werden!\nKlicke auf OK um die App zu schließen</string>
+    <string name="process_failed">Es ist ein Fehler aufgetreten! Probiere es später erneut.</string>
+    <string name="select_exist">Bitte wählen Sie ein existierenden Ordner aus!</string>
+    <string name="show_photos_in_locus">Fotos in Locus anzeigen</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gallery for Locus</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="open_source_libraries">Open Source Libraries</string>
+    <string name="open_source_licences">Open Source Licences</string>
+    <string name="add_path">Add path</string>
+    <string name="locus_not_found">Locus not found, Please install Locus first!\nClick OK to close the app</string>
+    <string name="process_failed">Process failed! Try again</string>
+    <string name="select_exist">Please select an existing directory</string>
+    <string name="show_photos_in_locus">Show Photos in Locus</string>
+</resources>
